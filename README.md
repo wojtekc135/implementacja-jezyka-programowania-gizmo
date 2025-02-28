@@ -1,5 +1,6 @@
 # implementacja-jezyka-programowania-gizmo
 projekt humorystyczny
+
  jezyk gizmo dokumentacja:
  - nowoczesna składnia
  - innowacyjny paradygmat programowania
