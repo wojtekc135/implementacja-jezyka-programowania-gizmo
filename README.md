@@ -50,4 +50,4 @@ gizmo gizmo.gizmo
 stworzyli narzędzia, do zamiany kodu z innych jezyków programowania do języka gizmo. Dzięki temu programy stają się szybsze i bardziej czytelne.
 - Stwórz jakiś program w folderze z językiem wpisz py2gizmo i ten program, utworzył się kod zrodlowy oraz plik wykonywalny, wpisz gizmo i plik.gizmo zeby go uruchomić.
 Widać elegancki kod w oraz jego implementacje.
-
+z przymruzeniem oka
