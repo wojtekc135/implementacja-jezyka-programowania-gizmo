@@ -7,7 +7,7 @@
  - modularność
 
 Składnia:
-instrukcje warunkowe: gizmo
+- instrukcje warunkowe: gizmo
 - pętle: gizmo
 - typy danych: gizmo
 - biblioteka standardowa: gizmo
